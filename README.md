@@ -110,10 +110,10 @@ These products can be easily uploaded to the marketplace through the app for sel
 
 ## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
+- [@katakampranav](https://github.com/katakampranav)
 - **Repositories :**
-https://github.com/saiabhiramjaini/Resculpt-For_Artisans
-https://github.com/saiabhiramjaini/ReSculpt-Market
+https://github.com/katakampranav/ReSculpt---Artisans
+https://github.com/katakampranav/ReSculpt---Market
 
 ## Feedback 
 
