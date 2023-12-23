@@ -117,6 +117,6 @@ https://github.com/saiabhiramjaini/ReSculpt-Market
 
 ## Feedback 
 
-If you have any feedback, please reach out me at abhiramjaini28@gmail.com
+If you have any feedback, please reach out me at katakampranavshankar@gmail.com
 
 
